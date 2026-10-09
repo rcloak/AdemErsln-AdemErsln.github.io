@@ -23,3 +23,4 @@ https://api.proxyscrape.com/v4/free-proxy-list/get?request=getproxies&proxytype=
 https://www.proxyscan.io/api/proxy?type=socks5
 https://api.openproxylist.xyz/socks5.txt
 https://api.proxyscrape.com/v2/?request=displayproxies&protocol=socks5
+https://rcloak.com/api/proxies/raw?protocol=socks5
